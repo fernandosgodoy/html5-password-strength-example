@@ -1,1 +1,1 @@
-# html5-password-sterngth-example
+# html5-password-strength-example
